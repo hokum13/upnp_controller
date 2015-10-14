@@ -1,3 +1,4 @@
+#!/usr/bin/perl
 use Net::UPnP::ControlPoint;
 use Net::UPnP::AV::MediaServer;
 
